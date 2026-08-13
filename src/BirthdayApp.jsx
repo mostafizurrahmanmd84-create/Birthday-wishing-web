@@ -108,7 +108,7 @@ export default function BirthdayApp() {
   };
 
   const ageCounts = useMemo(
-    () => ({ years: 19, months: 0, days: 19 }),
+    () => ({ years: 00, months: 00, days: 00 }),
     []
   );
 
