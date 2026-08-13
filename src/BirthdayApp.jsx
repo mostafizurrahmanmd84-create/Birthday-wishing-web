@@ -234,7 +234,7 @@ export default function BirthdayApp() {
               >
                 <div className="rounded-[28px] border border-red-700/50 bg-gradient-to-b from-[#2b0608] to-[#180204] p-8 text-center shadow-inner shadow-red-950/40">
                   <p className="text-sm uppercase tracking-[0.35em] text-red-300/80">Age Counter</p>
-                  <h2 className="mt-4 text-4xl font-semibold text-white">19 Years : 0 Months : 19 Days</h2>
+                  <h2 className="mt-4 text-4xl font-semibold text-white">00 Years : 00 Months : 00 Days</h2>
                   <p className="mt-3 text-sm text-red-200/70">Counting every lovely moment with you.</p>
                 </div>
                 <div className="flex items-center justify-between gap-4">
