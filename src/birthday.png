@@ -1,0 +1,7 @@
+import birthdayImage from './assets/birthday.jpg';
+{
+  id: 3,
+  title: 'Night drive',
+  description: 'Soft lights and dreamy roads.',
+  image: birthdayImage,
+},
